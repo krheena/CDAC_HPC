@@ -10,6 +10,7 @@ int main() {
     sum = a + b;
 
     printf("Sum of two numbers is: %d\n", sum);
+    printf("this is cdac");
 
     return 0;
 }
